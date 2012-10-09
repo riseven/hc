@@ -5,7 +5,7 @@
 DISCLAIMER: *This is not a serious cryptographic software, DO NOT USE for any sensitive data.
 This is just my AMATEUR take at the field, programmed while I was at high school. It is really
 easy to screw things up in the crypto field, so I really encourage you to use a serious 3rd
-party library, which has been programmed by knowledgeable peopel in the field, and thoroughly tested.*
+party library, which has been programmed by knowledgeable people in the field, and thoroughly tested.*
 
 ## Description
 
